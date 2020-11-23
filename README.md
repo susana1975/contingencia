@@ -1,8 +1,8 @@
-Ejemplo de plan de contingencia para los centros de secundaria.    
+Ejemplo de plan de contingencia para los centros de secundaria y F.P.    
 ## Índice
     
 <ol>
-    <li><a href="sections/section0001.md">PORTADA</a></li>
+    <li><a href="sections/section0001.md">INICIO</a></li>
     <li><a href="sections/section0002.md">CONTROL DE REVISIONES Y ACTUALIZACIONES</a></li>
     <li><a href="sections/section0003.md">INTRODUCCIÓN</a></li>
     <li><a href="sections/section0004.md">OBJETIVOS</a></li>
