@@ -1,4 +1,4 @@
-Ejemplo de plan de contingencia para los centros de secundaria.    
+Ejemplo de plan de contingencia para los institutos de secundaria.    
 ## Índice
     
 <ol>
