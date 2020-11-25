@@ -1,12 +1,12 @@
-[PROTOCOLO DE ACCESO, TRÁNSITO Y ABANDONO DEL CENTRO]{.span4}[ ]{.span4}
+[PROTOCOLO DE ACCESO, TRÁNSITO Y ABANDONO DEL CENTRO]{.span4}[ ]
 
  
 
-[Acceso y usos de espacios comunes:]{.span19}
+[Acceso y usos de espacios comunes:]
 
  
 
-[Acceso a las instalaciones y recorridos internos.]{.span10}
+[Acceso a las instalaciones y recorridos internos.]
 
  
 
@@ -16,7 +16,7 @@ posibles situaciones en las que no pueda mantenerse la distancia de
 seguridad, el uso de mascarilla ]{.span3}[durante la entrada. Se
 colocarán carteles informativos en los lugares de acceso al centro
 informando de la obligatoriedad del uso de mascarillas en todo el
-recinto. ]{.span3}
+recinto. ]
 
  
 
@@ -31,7 +31,8 @@ abandonar el centro deberá esperar a que finalice el periodo de entrada
 general. Análogamente, en el horario de salida, de 14:25 a 14:35 el
 sentido será únicamente de salida, teniendo que aguardar toda persona
 que quiera acceder al mismo la finalización del periodo de
-salida.]{.span3}
+salida.]
+Prueba de Jose Juan
 
 ![OEBPS/images/image0005.png](../images/image0005.png){.frame4} 
 
