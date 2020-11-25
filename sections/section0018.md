@@ -2,7 +2,7 @@
 mantenimiento adecuado.]{.span4}[ ]{.span4}
 
  
-[PROBANDO - PABLO FERNADEZ] 
+[PROBANDO - PABLO FERNANDEZ -] 
 
 [x]{.span17}
 
