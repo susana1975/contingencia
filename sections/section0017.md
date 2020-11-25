@@ -7,7 +7,7 @@ TRABAJADORES COMO DEL ALUMNADO.]{.span4}
 
  
 
-[El IES \_\_\_\_\_\_\_\_\_ tendrá a disposición de todos los
+[El IES Los Albares tendrá a disposición de todos los
 trabajadores los materiales considerados fundamentales y recomendados
 como medidas de protección por las autoridades sanitarias y el Servicio
 de Prevención de Riesgos Laborales.]{.span3}
