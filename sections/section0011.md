@@ -1,11 +1,11 @@
-[identificación de los posibles escenarios de riesgo]{.span11}
+[identificación de los posibles escenarios de riesgo]
 
  
 
 [En general, tal y como establece el Ministerio de Sanidad en el
-]{.span3}[[Procedimiento de actuación para los servicios de prevención
+][[Procedimiento de actuación para los servicios de prevención
 de riesgos laborales frente a la exposición a la
-COVID-19]{.span13}](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200619Proteccion_Trabajadores_SARS-CoV-2.pdf)[,
+COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200619Proteccion_Trabajadores_SARS-CoV-2.pdf)[,
 en función de la naturaleza de las actividades docentes en los centros
 educativos, así como de la incidencia y prevalencia de COVID-19 descrita
 hasta al momento en la población infantil, el riesgo del personal
