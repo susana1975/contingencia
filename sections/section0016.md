@@ -7,13 +7,13 @@
 [Las instrucciones generales tanto al alumnado como a padres, madres o
 tutores legales, vienen recogidas en el anexo I: Instrucciones al
 alumnado y en el anexo II: Instrucciones a padres, madres y/o
-tutores.]{.span3}
+tutores.]
 
  
 
 [Esta información se les hará llegar a los interesados siguiendo los
 canales de información establecidos en el apartado 20 de este plan de
-contingencia.]{.span3}
+contingencia del IES Ribera de los Molinos]
 
  
 
