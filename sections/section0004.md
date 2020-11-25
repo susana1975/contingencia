@@ -2,7 +2,7 @@ OBJETIVOS
 
  
 
-Crear un entorno saludable y seguro en el IES \_\_\_\_\_\_\_\_\_\_\_\_,
+Crear un entorno saludable y seguro en el IES Beniajan,
 a través de medidas de prevención, higiene y promoción de la salud
 adaptadas a nuestras particularidades.
 
