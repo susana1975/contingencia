@@ -8,7 +8,7 @@ haber realizado previamente el curso de autoformación denominado
 ]{.span3}[["Prevención de riesgos frente a la
 COVID-19"]{.span3}](https://teleformacion.murciaeduca.es/course/view.php?id=6208)[
 en la plataforma teleformacion.murciaeduca.es, al cual se accede a
-través del perfil de invitado y con la contraseña "aula".]{.span3}
+través del perfil de invitado y con la contraseña "aula".]
 
  
 
@@ -18,7 +18,7 @@ trabajador en una circunstancia tan particular como la actual, por lo
 que se hace imprescindible que todo el personal adscrito al centro
 educativo conozca el Plan de Contingencia y cuente con la información
 específica y actualizada sobre las medidas concretas que se
-implanten.]{.span3}
+implanten.]
 
  
 
@@ -26,6 +26,7 @@ implanten.]{.span3}
 del centro por los canales establecidos en el apartado 20, quedando una
 copia en secretaria para su consulta y estableciéndose un buzón
 telemático del centro para dudas y sugerencias.]{.span3}
+
 
 ![OEBPS/images/image0002.png](../images/image0002.png){.frame1}\
  
@@ -42,9 +43,8 @@ telemático del centro para dudas y sugerencias.]{.span3}
 
  
 
-[La persona responsable de trasladar la información en IES
-\_\_\_\_\_\_\_\_\_\_ es:]{.span3}
-
+[La persona responsable de trasladar la información en el CEA Cartagena
+\_\_\_\_\_\_\_\_\_\_ es:]
  
 
 +-----------------------------------+-----------------------------------+
