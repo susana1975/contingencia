@@ -2,7 +2,7 @@
 
  
 
-[Cada centro educativo creará un equipo COVID-19 integrado, al menos,
+[El IES Europa educativo creará un equipo COVID-19 integrado, al menos,
 por la dirección del centro, el coordinador de prevención de riesgos
 laborales y el coordinador de educación para la salud, para garantizar
 el cumplimiento de los principios básicos y que toda la comunidad
