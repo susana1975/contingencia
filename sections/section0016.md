@@ -7,7 +7,8 @@
 [Las instrucciones generales tanto al alumnado como a padres, madres o
 tutores legales, vienen recogidas en el anexo I: Instrucciones al
 alumnado y en el anexo II: Instrucciones a padres, madres y/o
-tutores.]
+tutores.
+REalizamos un nuevo cambio]
 
  
 
