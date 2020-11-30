@@ -1,18 +1,18 @@
  
 
-[RESPONSABLE REDACCIÓN Y APLICACIÓN DEL PLAN]{.span11}
+[RESPONSABLE REDACCIÓN Y APLICACIÓN DEL PLAN]
 
  
 
-[Apellidos y nombre: ]{.span12}
+[Apellidos y nombre: ] Guillermo Palazón Cano
 
  
 
-[Correo electrónico:]{.span12}
+[Correo electrónico:]guillermo.palazon@murciaeduca.es
 
  
 
-[Fecha de elaboración del plan:]{.span12}
+[Fecha de elaboración del plan:]
 
 [29/06/2020]{.span12}
 
